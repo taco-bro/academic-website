@@ -64,7 +64,7 @@ education:
   - area: MEng Mechanics
     institution: Southern University of Science and Technology
     date_start: 2023-09-01
-    date_end: Present
+    date_end: 2023-09-01
     summary: |
       GPA: 3.8/4.0
 
