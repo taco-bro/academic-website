@@ -64,7 +64,7 @@ education:
   - area: M.Eng Mechanics
     institution: Southern University of Science and Technology
     date_start: 2023-09-01
-    date_end: 2023-09-01
+    date_end: 2026-09-01
     summary: |
       GPA: 3.52/4.0
 
