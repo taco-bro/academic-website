@@ -58,3 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+marketing:
+  analytics:
+    microsoft_clarity: 'svm81ytor4'
