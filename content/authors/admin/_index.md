@@ -72,10 +72,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng a
+  - area: BEng
     institution: Huazhong University of Science and Technology
     date_start: 2018-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-30
     summary: |
       GPA: 3.6/4.0
       
