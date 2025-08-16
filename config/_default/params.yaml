@@ -60,7 +60,7 @@ features:
     enable: false
   comment:
     # Choose a provider: giscus, disqus, commento, or '' to disable commenting
-    provider: 'giscus'
+    provider: giscus
     giscus:
       repo: 'taco-bro/academic-website'
       repo_id: 'R_kgDOPda-dw'
