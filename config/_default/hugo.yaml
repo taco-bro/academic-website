@@ -6,7 +6,7 @@
 # Website name
 title: W. Liang's Homepage
 # Website URL
-baseURL: 'https://weiyuanliang.netlify.app/'
+baseURL: https://weiyuanliang.netlify.app/
 
 ############################
 ## LANGUAGE
