@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.Eng Mechanics
+  - area: MEng Mechanics
     institution: Southern University of Science and Technology
     date_start: 2023-09-01
     date_end: 2026-09-01
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.Eng 
+  - area: BEng 
     institution: Huazhong University of Science and Technology
     date_start: 2018-09-01
     date_end: 2022-06-31
