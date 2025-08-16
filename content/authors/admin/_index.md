@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 12332535@mail.sustech.edu.cn
     label: E-mail Me
-  - icon: "custom/weixin.svg"
+  - icon: "custom/weixin"
     url: ''
     label: V Me
   # - icon: brands/x
