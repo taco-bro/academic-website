@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '12332535@mail.sustech.edu.cn'
+    url: 12332535@mail.sustech.edu.cn
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -112,17 +112,17 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: MATLAB
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: PYTHON
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Optical Diagnostics
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -130,7 +130,7 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -138,7 +138,7 @@ skills:
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera
 
 # languages:
