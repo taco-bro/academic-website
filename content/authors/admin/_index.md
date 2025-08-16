@@ -68,21 +68,35 @@ education:
     summary: |
       GPA: 3.52/4.0
 
+      Awards included:
+      - Outstanding Graduate Student (2023 - 2024)
+      - Outstanding Teaching Asistant (2025) 
+      - Excellent Student Cadre (2025)
+
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced Methods in Applied Mathematics
+      - Advanced Computational Fluid Mechanics
+      - Aeroacoustics
+      - Continuum Mechanics
   - area: B.Eng
     institution: Huazhong University of Science and Technology
     date_start: 2018-09-01
     date_end: 2022-06-30
     summary: |
       GPA: 3.64/4.0
+
+      Awards included:
+      - Scholarship for Academic Progress (2019 - 2020)
+      - Outstanding Graduate (2022) 
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Statics
+      - Aerodynamics
+      - Dynamics and Bifurcations
+      - Aerospace Vehicle Performance
+      - Computational Fluid Dynamics
+      - Combustion Theory and Application
+      - Jet/Rocket Engine 
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -153,13 +167,11 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    date: '2023-11-25'
+# awards:
   # - title: Neural Networks and Deep Learning
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
   #   date: '2023-11-25'
-  #   awarder: Coursera
+    # awarder: Coursera
   #   icon: coursera
   #   summary: |
   #     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
@@ -185,4 +197,4 @@ awards:
 
 ## About Me
 
-Weiyuan Liang is a master candidate of mechanics. His research interests include combustion instability, fluid mechanics and acoustic.
+W. Liang is a master candidate of mechanics. His research interests include combustion instability, fluid mechanics and acoustic. The current research activities are focused on thermoacoustic combustion instabilities, particularly on fundamental problems that arise out of the development of clean combustion systems or utilization of alternative fuels (e.g. hydrogen). 
