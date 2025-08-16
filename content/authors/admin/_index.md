@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng 
+  - area: BEng
     institution: Huazhong University of Science and Technology
     date_start: 2018-09-01
     date_end: 2022-06-31
