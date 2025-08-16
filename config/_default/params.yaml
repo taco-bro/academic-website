@@ -58,13 +58,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-# Dara Analytic
-marketing:
-  analytics:
-    microsoft_clarity: 'svm81ytor4'
-
-features:
   comment:
     # Choose a provider: giscus, disqus, commento, or '' to disable commenting
     provider: 'giscus'
@@ -84,3 +77,8 @@ features:
     commento:
       # If you self-host Commento, enter your custom Commento URL here.
       url: ''
+
+# Dara Analytic
+marketing:
+  analytics:
+    microsoft_clarity: 'svm81ytor4'
