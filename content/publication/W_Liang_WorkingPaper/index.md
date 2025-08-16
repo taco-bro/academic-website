@@ -70,6 +70,7 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+commentable: true
 ---
 
 This work is a further investigation of my [previous paper](/publication/W_Liang_ASPACC2025Conference/).

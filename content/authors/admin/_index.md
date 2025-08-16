@@ -33,6 +33,9 @@ profiles:
   - icon: at-symbol
     url: 12332535@mail.sustech.edu.cn
     label: E-mail Me
+  - icon: assets/media/icons/custom/weixin.svg
+    url: ''
+    label: V Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
