@@ -59,6 +59,7 @@ features:
   privacy_pack:
     enable: false
 
+# Dara Analytic
 marketing:
   analytics:
     microsoft_clarity: 'svm81ytor4'
