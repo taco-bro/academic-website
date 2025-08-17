@@ -2,6 +2,7 @@
 title: Master Thesis
 date: 2025-01-15
 external_link: ''
+summary: A systematic investigation is conducted on the flame response of a laboratory-scale single-nozzle micro-mix burner. 
 authors:
   - admin
 tags:
