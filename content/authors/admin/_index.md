@@ -93,10 +93,11 @@ education:
       - Outstanding Graduate (2022) 
       
       Courses included:
-      - Statics
       - Aerodynamics
-      - Dynamics and Bifurcations
+      - Thermo Fluid Fundamentals
       - Aerospace Vehicle Performance
+      - Aviation Gas Turbine
+      - Aerospace Structural Analysis
       - Computational Fluid Dynamics
       - Combustion Theory and Application
       - Jet/Rocket Engine 
