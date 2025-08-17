@@ -19,16 +19,16 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
   - block: collection
     content:
       title: Fundamental Research in Equivalence Ratio Fluctuations
-      text: Both velocity and equivalence ratio fluctuations play a critical role in unsteady heat release, which can trigger thermoacoustic instability. This form of instability arises from the two-way coupling between acoustic waves and unsteady heat release, leading to large-amplitude pressure oscillations and, in severe cases, catastrophic hardware failure. Among these factors, equivalence ratio fluctuations induced by pressure and velocity oscillations are especially significant in lean premixed combustors. However, their isolated influence on flame dynamics is difficult to distinguish, as velocity and pressure effects are inherently coupled. To address this challenge, it is essential to investigate flame behavior under well-controlled equivalence ratio perturbations. Such studies not only clarify how flames respond to these fluctuations but also provide valuable insights into the nonlinear dynamics governing combustion stability.
+      text: Both velocity and equivalence ratio fluctuations play a critical role in unsteady heat release, which can trigger thermoacoustic instability. This form of instability arises from the two-way coupling between acoustic waves and unsteady heat release, leading to large-amplitude pressure oscillations and, in severe cases, catastrophic hardware failure. However, isolated influence between velocity and equivalence ratio fluctuations on flame dynamics is difficult to distinguish, as velocity and equivalence ratio fluctuation are inherently coupled. To address this challenge, it is essential to investigate flame behavior under well-controlled equivalence ratio perturbations. Such studies not only clarify how flames respond to these fluctuations but also provide valuable insights into the nonlinear dynamics governing combustion stability.
       filters:
         folders:
           - project_EQR
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 ---
