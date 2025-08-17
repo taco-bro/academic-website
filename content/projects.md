@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '8rem'
 
 # Page sections
 sections:
@@ -16,6 +16,19 @@ sections:
       filters:
         folders:
           - project_hydrogen
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+
+sections:
+  - block: collection
+    content:
+      title: Fundamental Research in Equivalence Ratio Fluctuations
+      text: Both velocity and equivalence ratio fluctuations contribute to unsteady heat release and can drive thermoacoustic instability. This instability is a flow instability that arises due to two-way coupling between acoustic waves and unsteady heat release rate, causing large amplitude pressure fluctuations, and in extreme cases, catastrophic hardware failure. Equivalence ratio fluctuations excited by pressure and/or velocity oscillations, is known to be particularly important in lean, premixed combustors. However, pure influence of the equivalence ratio fluctuations on flames cannot be exclusively discerned.
+      filters:
+        folders:
+          - project_EQR
     design:
       view: article-grid
       fill_image: false
