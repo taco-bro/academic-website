@@ -75,7 +75,7 @@ education:
 
       Awards included:
       - Outstanding Graduate Student (2023 - 2024)
-      - Outstanding Teaching Asistant (2025) 
+      - Outstanding Teaching Assistant (2025) 
       - Excellent Student Cadre (2025)
 
       Courses included:
