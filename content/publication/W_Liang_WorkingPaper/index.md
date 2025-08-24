@@ -6,7 +6,7 @@ authors:
 - C. Miao
 - B. Sa
 - B. Zhou
-- D. Yang
+- D. Yang*
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

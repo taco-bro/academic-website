@@ -8,7 +8,7 @@ authors:
   - admin
   - Z. Zhao
   - B. Zhou
-  - D. Yang
+  - D. Yang*
 
 # Author notes (optional)
 # author_notes:

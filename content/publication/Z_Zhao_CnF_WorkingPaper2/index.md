@@ -6,7 +6,7 @@ authors:
 - M. Sun
 - admin
 - D. Yang
-- B. Zhou
+- B. Zhou*
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

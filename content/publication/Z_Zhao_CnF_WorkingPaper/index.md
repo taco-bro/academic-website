@@ -9,7 +9,7 @@ authors:
 - X. Guan
 - X. Wang
 - D. Yang
-- B. Zhou
+- B. Zhou*
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
