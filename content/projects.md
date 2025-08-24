@@ -20,6 +20,8 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+
+sections:
   - block: collection
     content:
       title: Fundamental Research in Equivalence Ratio Fluctuations
