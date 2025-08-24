@@ -1,14 +1,14 @@
 ---
 title: Flame Transfer Functions in Response to Equivalence Ratio Fluctuations
-date: 2025-06-01
+date: 2025-06-02
 external_link: ''
 summary: A systematic investigation is conducted on the flame response of a CH4/air swirl-stabilized premixed flame. 
 tags:
-  - Flame transfer function
-  - Hydrogen
-  - Thermoacoustic
-  - Diffusion flame
-  - Equivalence ratio fluctuations
+ - Flame transfer function
+ - Hydrogen
+ - Thermoacoustic
+ - Diffusion flame
+ - Equivalence ratio fluctuations
 ---
 
 {{< toc mobile_only=true is_open=true >}}
