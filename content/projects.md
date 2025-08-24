@@ -27,6 +27,7 @@ sections:
       filters:
         folders:
           - project_EQR
+        featured_only: true
     design:
       view: article-grid
       fill_image: false
