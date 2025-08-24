@@ -19,7 +19,7 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 1
+      columns: 3
   - block: collection
     content:
       title: Fundamental Research in Equivalence Ratio Fluctuations
@@ -30,5 +30,5 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 1
+      columns: 3
 ---
