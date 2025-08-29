@@ -35,7 +35,8 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "W. Liang's Website"
+      text: "Weiyuan Liang | Thermoacoustic and flow physics"
+      icon: academicons/researchgate
 
 # Site footer
 footer:
@@ -44,7 +45,7 @@ footer:
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -57,7 +58,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: ture
   comment:
     # Choose a provider: giscus, disqus, commento, or '' to disable commenting
     provider: giscus
