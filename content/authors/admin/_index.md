@@ -143,7 +143,7 @@ skills:
       - name: Optical Diagnostics
         description: ''
         percent: 60
-        icon: circle-stack
+        icon: "custom/microscope"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -203,4 +203,4 @@ skills:
 
 ## About Me
 
-W. Liang is a master candidate of mechanics. His research interests include combustion instability, fluid mechanics and acoustic. The current research activities are focused on thermoacoustic combustion instabilities, particularly on fundamental problems that arise out of the development of clean combustion systems or utilization of alternative fuels (e.g. hydrogen). 
+W. Liang is a master candidate of mechanics. His research interests include combustion instability, fluid mechanics and acoustic. The current research activities are focused on thermoacoustic combustion instabilities, particularly on fundamental problems that arise out of the development of clean combustion systems or utilization of alternative fuels (e.g. hydrogen). He has hands-on experience in measuring flame transfer functions using optical methods，flow velocimetry method (e.g. hot wire anemometer), and the flow visualization techniques (e.g. focusing schlieren). He has conducted theoretical and numerical research on flame-front kinematics using the G-equation framework.
