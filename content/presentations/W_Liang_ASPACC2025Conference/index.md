@@ -42,7 +42,7 @@ image:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: uploads/ASPACC2025_Abstract
+url_pdf: uploads/ASPACC2025_Abstract.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''

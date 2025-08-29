@@ -30,14 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      # title: '📚 My Research'
-      # subtitle: ''
-      text: |-
-        Oral presentation in 15th Asia-Pacific Conference on Combustion, May 2025, Singapore. [(**Abstract**)](uploads/ASPACC2025_Abstract).
-    design:
-      columns: '1'
   # - block: collection
   #   id: papers
   #   content:
@@ -66,9 +58,9 @@ sections:
         folders:
           - presentations
     design:
-      view: citation
-      # view: article-grid
-      # columns: 1
+      # view: citation
+      view: article-grid
+      columns: 3
   - block: collection
     id: news
     content:
