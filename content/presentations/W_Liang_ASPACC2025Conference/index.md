@@ -7,10 +7,10 @@ authors:
   - B. Zhou
   - D. Yang*
 
-event: 15th Asia-Pacific Conference on Combustion
+event: 15th Asia-Pacific Conference on Combustion, May 2025, Singapore
 # event_url: https://example.org
 
-location: Singapore
+# location: Singapore
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
