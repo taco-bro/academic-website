@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: ''
     label: E-mail Me
-  - icon: "custom/weixin_dark"
+  - icon: brands/weixin
     url: ''
     label: V Me
   # - icon: brands/x
@@ -143,7 +143,7 @@ skills:
       - name: Optical Diagnostics
         description: ''
         percent: 60
-        icon: "custom/microscope"
+        icon: devicon/star
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
