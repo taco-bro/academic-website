@@ -74,9 +74,13 @@ education:
       GPA: 3.52/4.0
 
       Awards included:
-      - Outstanding Graduate Student (2023 - 2024)
+      - Outstanding PostGraduate Student (2023 - 2024)
       - Outstanding Teaching Assistant (2025) 
       - Excellent Student Cadre (2025)
+
+      Teaching Asistantships included:
+      - Theoretical Mechanics (undergraduate course, instructor: Kefu Huang), Fall 2023
+      - Foundations of Engineering Mathematics (undergraduate course, instructor: Dong Yang), Fall 2024
 
       Courses included:
       - Advanced Methods in Applied Mathematics
