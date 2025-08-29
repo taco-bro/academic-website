@@ -1,5 +1,5 @@
 ---
-title: 'The impact of non-stiff fuel injection on the response of a partially premixed pure hydrogen flame (Poster)'
+title: The impact of non-stiff fuel injection on the response of a partially premixed pure hydrogen flame (Poster)
 
 authors:
   - admin
@@ -22,7 +22,7 @@ event: Tsinghua-Princeton-Combustion 2025 Summer School on Combustion
 # date_end: '2025-07-12T00:00:00Z'
 # all_day: false
 
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-07-06T00:00:00Z'
 
 # publication_types: ['paper-conference']
 
