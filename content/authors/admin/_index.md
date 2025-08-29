@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Candidate
+role: Master Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -203,4 +203,6 @@ skills:
 
 ## About Me
 
-W. Liang is a master candidate of mechanics. His research interests include combustion instability, fluid mechanics and acoustic. The current research activities are focused on thermoacoustic combustion instabilities, particularly on fundamental problems that arise out of the development of clean combustion systems or utilization of alternative fuels (e.g. hydrogen). He has hands-on experience in measuring flame transfer functions using optical methods，flow velocimetry method (e.g. hot wire anemometer), and the flow visualization techniques (e.g. focusing schlieren). He has conducted theoretical and numerical research on flame-front kinematics using the G-equation framework.
+Weiyuan is currently a master student in Mechanics at Southern University of Science and Technology (SUSTech). He works with Dong Yang in SUSTech. His research interests include combustion instability (thermoacoustic instability), fluid mechanics and acoustic (e.g. generation and propagation of acoustic in internal flow). The current research activities are focused on thermoacoustic instabilities, particularly on fundamental problems that arise out of the development of clean combustion systems or utilization of alternative fuels (e.g. hydrogen). 
+
+Weiyuan received his Bachelor’s degree from Huazhong University of Science and Technology (HUST), China, in 2022. He joined the current research group in September 2023, and began his research on flame transfer functions of pure hydrogen combustion. He has hands-on experience in optical diagnostics and flow velocimetry method. He has also conducted theoretical and numerical research on flame-front kinematics based on G-equation.
