@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "W. Liang's Homepage"
-date: 2025-08-15
+title: "Weiyuan Liang | Thermoacoustic and flow physics"
+date: 2025-08-29
 type: landing
 
 design:
@@ -42,17 +42,17 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Recent Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 3
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Recent Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 3
   - block: collection
     content:
       title: Publications
@@ -60,6 +60,16 @@ sections:
       filters:
         folders:
           - publication
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Talks and Conference presentations
+      text: ""
+      filters:
+        folders:
+          - presentations
         exclude_featured: false
     design:
       view: citation
