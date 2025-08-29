@@ -73,7 +73,7 @@ image:
 commentable: true
 ---
 
-This work is a further investigation of my [previous paper](/publication/W_Liang_ASPACC2025Conference/).
+This work is a further investigation of my [previous conference paper](/presentations/W_Liang_ASPACC2025Conference/).
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

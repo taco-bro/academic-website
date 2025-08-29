@@ -3,9 +3,6 @@ title: The impact of non-stiff fuel injection on the response of a partially pre
 
 authors:
   - admin
-  - Z. Zhao
-  - B. Zhou
-  - D. Yang*
 
 event: Tsinghua-Princeton-Combustion 2025 Summer School on Combustion
 # event_url: https://example.org
