@@ -63,26 +63,26 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    content:
-      title: Talks and Conference presentations
-      text: ""
-      filters:
-        folders:
-          - presentations
-        exclude_featured: false
-    design:
-      view: citation
   # - block: collection
-  #   id: talks
   #   content:
-  #     title: Recent & Upcoming Talks
+  #     title: Talks and Conference presentations
+  #     text: ""
   #     filters:
   #       folders:
-  #         - event
+  #         - presentations
+  #       exclude_featured: false
   #   design:
-  #     view: article-grid
-  #     columns: 1
+  #     view: citation
+  - block: collection
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: citation
+      # view: article-grid
+      # columns: 1
   - block: collection
     id: news
     content:
