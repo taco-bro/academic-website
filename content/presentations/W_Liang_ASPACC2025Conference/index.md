@@ -1,5 +1,5 @@
 ---
-title: 'Flame transfer function of a single-nozzle micromix burner using jet-in-cross flow for pure hydrogen'
+title: 'Flame transfer function of a single-nozzle micro-mix burner using jet-in-cross flow for pure hydrogen'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -33,7 +33,7 @@ publication_short: In *15th ASPACC*
 abstract: Exploring alternative combustion strategies is crucial for the safe and efficient burning of pure hydrogen in future carbon-neutral gas turbine combustors. The micromix concept has recently gained attention as a promising solution for pure hydrogen combustion. While previous research has explored various strategies, including the jet-in-cross flow configuration, key gaps remain in understanding the interaction between acoustic waves and fuel injection dynamics in such configurations. In this paper, the flame transfer functions (FTFs) of a micromix burner with jet-in-cross flow configuration were obtained by using the OH* measurement and multi-microphone method. Our results show that the FTFs exhibit a globally decaying low-pass filter behavior, agreeing with previous studies. However, it also shows a local gain modulation phenomenon, giving multiple peaks in the low frequency range. Notably, the amplitude of the second peak varies significantly across cases with different mean velocities. This presents new questions regarding the role of the burner's acoustic impedance in shaping combustion behavior. Given the implications of these preliminary results, further investigation is necessary to measure equivalence ratio fluctuations and confirm the underlying mechanisms. The present study offers significant potential to advance the understanding of micromix combustion and its application in future hydrogen-powered turbines.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 15th Asia-Pacific Conference on Combustion, May2025, Singapore
 
 tags:
   - Flame Transfer function
@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ASPACC2025_Abstract.pdf
+url_pdf: uploads/ASPACC2025_Abstract
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
