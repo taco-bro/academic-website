@@ -36,7 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Weiyuan Liang | Thermoacoustic and flow physics"
-      icon: academicons/researchgate
+      favicon: academicons/researchgate
 
 # Site footer
 footer:
