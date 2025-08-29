@@ -147,7 +147,7 @@ skills:
       - name: Optical Diagnostics
         description: ''
         percent: 60
-        icon: devicon/star
+        icon: hero/star
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
