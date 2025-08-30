@@ -36,7 +36,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - myNotes
+          - mynotes
         # author: ""
         # category: ""
         # tag: ""
