@@ -53,7 +53,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Talks and Conference presentations
+      title: Talks and Conference Presentations
       filters:
         folders:
           - presentations
