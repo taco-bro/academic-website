@@ -4,7 +4,7 @@ date: 2025-08-30
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '2rem'
 
 
 # Page sections
@@ -46,7 +46,6 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]
 ---
-
-<font size=3> 
-Forced Burgers Equation
-</font>
+# Heading level 1
+<font size=3>Forced Burgers Equation</font>
+<font color="red">112</font>
