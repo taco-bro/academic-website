@@ -1,19 +1,18 @@
 ---
 title: 'Notes'
 date: 2025-08-30
-type: landing
 
 design:
   spacing: '2rem'
 
 
 # Page sections
-sections:
-  - block: markdown
-    content:
-      title: 'Notes (under construction)'
-      subtitle: ''
-      text: ''
+# sections:
+#   - block: markdown
+#     content:
+#       title: 'Notes (under construction)'
+#       subtitle: ''
+#       text: ''
   # - block: collection
   #   id: notes
   #   content:
