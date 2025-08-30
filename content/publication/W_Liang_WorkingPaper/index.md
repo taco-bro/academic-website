@@ -71,6 +71,8 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 commentable: true
+share: false
+pager: false
 ---
 
 This work is a further investigation of my [previous conference paper](/presentations/W_Liang_ASPACC2025Conference/).

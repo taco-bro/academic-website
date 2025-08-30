@@ -60,5 +60,7 @@ url_pdf: uploads/ASPACC2025_Abstract.pdf
 # url_video: 'https://youtube.com'
 
 commentable: true
+share: false
+pager: false
 ---
 

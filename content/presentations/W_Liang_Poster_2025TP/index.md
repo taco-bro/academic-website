@@ -58,5 +58,7 @@ url_poster: uploads/TP2025_Poster_Weiyuan_Liang.pdf
 # url_video: 'https://youtube.com'
 
 commentable: true
+share: false
+pager: false
 ---
 
