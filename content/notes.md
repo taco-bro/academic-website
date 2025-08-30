@@ -5,7 +5,10 @@ date: 2025-08-30
 design:
   spacing: '2rem'
 
-
+share: false
+pager: false
+show_date: false
+backlinks: false
 # Page sections
 # sections:
 #   - block: markdown
@@ -46,4 +49,5 @@ design:
   #       padding: [0, 0, 0, 0]
 ---
 
-- Forced Burger equation [<font color=red>(code)</font>](https://github.com/taco-bro/BurgersEq_FDM-FVM.git/)
+- Forced Burger equation [<font color=blue>(code)</font>](https://github.com/taco-bro/BurgersEq_FDM-FVM.git/) [<font color=blue>(PDF)</font>](../static/uploads/BurgersEq_Report.pdf) [<font color=blue>(NOTE)</font>](../static/uploads/BurgersEq_SomeNote.pdf)
+- Analytical solution of a swirling V-flame under the modulation of both velocity and equivalence ratio
