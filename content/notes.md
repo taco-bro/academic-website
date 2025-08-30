@@ -13,10 +13,7 @@ sections:
     content:
       title: 'Notes (under construction)'
       subtitle: ''
-      text: |-
-        <font size=3>
-        - Forced Burgers Equation [code](https://github.com/taco-bro/BurgersEq_FDM-FVM.git/)
-        </font>
+      text: ''
   # - block: collection
   #   id: notes
   #   content:
@@ -49,3 +46,5 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]
 ---
+
+- Forced Burger equation [<font color=red>(code)</font>](https://github.com/taco-bro/BurgersEq_FDM-FVM.git/)
