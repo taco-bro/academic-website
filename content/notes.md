@@ -12,7 +12,8 @@ sections:
   - block: collection
     id: notes
     content:
-      title: Notes (under construction)
+      title: |
+        Notes (under construction)
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
