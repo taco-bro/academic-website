@@ -4,18 +4,18 @@ date: 2025-08-30
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '6rem'
 
 
 # Page sections
 sections:
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: ''
+  #     subtitle: ''
+  #     text: |-
+  #   design:
+  #     columns: '1'
   - block: collection
     id: notes
     content:
