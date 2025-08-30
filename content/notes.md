@@ -6,16 +6,22 @@ type: landing
 design:
   spacing: '2rem'
 
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
+
 
 # Page sections
 sections:
-  # - block: markdown
-  #   content:
-  #     title: ''
-  #     subtitle: ''
-  #     text: |-
-  #   design:
-  #     columns: '3'
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+    design:
+      columns: '3'
   - block: collection
     id: notes
     content:
