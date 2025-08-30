@@ -9,13 +9,13 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-    design:
-      columns: '3'
+  # - block: markdown
+  #   content:
+  #     title: ''
+  #     subtitle: ''
+  #     text: |-
+  #   design:
+  #     columns: '3'
   - block: collection
     id: notes
     content:
