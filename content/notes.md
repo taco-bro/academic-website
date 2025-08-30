@@ -9,13 +9,14 @@ design:
 
 # Page sections
 sections:
-  # - block: markdown
-  #   content:
-  #     title: ''
-  #     subtitle: ''
-  #     text: |-
-  #   design:
-  #     columns: '3'
+  - block: markdown
+    content:
+      title: 'Note'
+      subtitle: ''
+      text:
+        <font size=3> 
+        - Forced Burgers Equation
+        </font>
   - block: collection
     id: notes
     content:
