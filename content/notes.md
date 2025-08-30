@@ -9,10 +9,17 @@ design:
 
 # Page sections
 sections:
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+    design:
+      columns: '1'
   - block: collection
     id: notes
     content:
-      title: |
+      title: |-
         Notes (under construction)
       subtitle: ''
       text: ''
