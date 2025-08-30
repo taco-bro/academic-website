@@ -4,24 +4,24 @@ date: 2025-08-30
 type: landing
 
 design:
-  spacing: '6rem'
+  spacing: '2rem'
 
 
 # Page sections
 sections:
-  # - block: markdown
-  #   content:
-  #     title: ''
-  #     subtitle: ''
-  #     text: |-
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+    design:
+      columns: '3'
   - block: collection
     id: notes
     content:
       title: |-
-        Notes (under construction)
-      subtitle: ''
+        Notes
+      subtitle: '(under construction)'
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
