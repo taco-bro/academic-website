@@ -50,6 +50,7 @@ commentable: true
   #     spacing:
   #       padding: [0, 0, 0, 0]
 ---
-
+<font size=3>
 - Forced Burger equation [<font color=blue>(CODE)</font>](https://github.com/taco-bro/BurgersEq_FDM-FVM.git/) [<font color=blue>(PDF)</font>](/uploads/BurgersEq_Report.pdf) [<font color=blue>(NOTE)</font>](/uploads/BurgersEq_SomeNote.pdf)
 - Flame-front kinematics of a V-flame under the modulation of both velocity and equivalence ratio
+</font>
