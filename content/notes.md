@@ -51,4 +51,5 @@ commentable: true
   #       padding: [0, 0, 0, 0]
 ---
 - <font size=3>Forced Burger equation [<font color=blue>(CODE)</font>](https://github.com/taco-bro/BurgersEq_FDM-FVM.git/) [<font color=blue>(PDF)</font>](/uploads/BurgersEq_Report.pdf) [<font color=blue>(NOTE)</font>](/uploads/BurgersEq_SomeNote.pdf)</font>
+- <font size=3>A derivation of G-equation following the work of Dowling [<font color=blue>Dowling 1999</font>](https://www.cambridge.org/core/product/identifier/S0022112099005686/type/journal_article/) [<font color=blue>(NOTE)</font>](/uploads/GEq_Derivation_followingDowling'sJFM.pdf)</font>
 - <font size=3>Flame-front kinematics of a V-flame under the modulation of both velocity and equivalence ratio </font>
