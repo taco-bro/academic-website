@@ -42,6 +42,7 @@ sections:
   #     view: article-grid
   #     columns: 3
   - block: collection
+    id: papers
     content:
       title: Publications
       text: ""

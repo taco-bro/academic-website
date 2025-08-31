@@ -78,7 +78,7 @@ education:
       - Outstanding Teaching Assistant (2025) 
       - Excellent Student Cadre (2025)
 
-      Teaching Asistantships included:
+      Teaching Asistant included:
       - MAE203 Theoretical Mechanics (undergraduate course, instructor: Kefu Huang), Fall 2023
       - MAE209 Foundations of Engineering Mathematics (undergraduate course, instructor: Dong Yang), Fall 2024
 
