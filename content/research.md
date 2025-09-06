@@ -25,9 +25,11 @@ Hydrogen, recognized as a promising alternative decarbonized fuel, has received 
 
 <font size=3>
 The generation of equivalence ratio fluctuations arises from the oscillations in the flow rate of both fuel ($m_f$) and air ($m_a$). This relation can be derived by linearizing the definition of equivalence ratio:
+
 $$
  \frac{{\phi}^\prime}{\bar{\phi}} \approx \frac{{m}}_f^\prime}{\overline{{m}}_f} - \frac{{{m}}_a^\prime}{\overline{{m}}_a} \approx \frac{{u}_f^\prime}{\bar{u}_f} - \frac{{u}_a^\prime}{\bar{u}_a}
 $$
+
 where $\phi$ is the equivalence ratio just downstream of the fuel injection point, $u_f$ denotes the fuel injection velocity, and $u_a$ is the airflow velocity immediately upstream of the fuel injection. Acoustic oscillations generate velocity perturbations in the air stream, leading to corresponding variations in the air mass flow rate. If the fuel supply is not choked, pressure oscillations at the injection point can also modulate the fuel mass flow rate. These combined effects give rise to temporal fluctuations in the equivalence ratio, forming the basis of the mode conversion mechanism in partially premixed systems. 
 </font>
 
