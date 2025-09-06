@@ -21,7 +21,12 @@ Hydrogen, recognized as a promising alternative decarbonized fuel, has received 
 </font>
 
 ### <font size=3>Mode conversion: acoustic to equivalence ratio fluctuation</font>
-![mode conversion in a partially premixed burner](/uploads/Images/GenerationOfEQR.png)
+![<font size=3>mode conversion in a partially premixed burner</font>](/uploads/Images/GenerationOfEQR.png)
+
+Linearization of the definition of EQR:
+$$
+ \frac{\prime{\phi}}{\bar{\phi}} \approx \frac{\prime{\dot{m}}_f}{\overline{\dot{m}}_f} - \frac{\prime{\dot{m}}_a}{\overline{\dot{m}}_a} \approx \frac{\prime{u}_f}{\bar{u}_f} - \frac{\prime{u}_a}{\bar{u}_a}
+$$
 
 ## <font size=5>Fundamental Research in Equivalence Ratio Fluctuations</font>
 ### <font size=3>Introduction</font>
