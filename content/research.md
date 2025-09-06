@@ -24,7 +24,7 @@ Hydrogen, recognized as a promising alternative decarbonized fuel, has received 
 ![<font size=3>mode conversion in a partially premixed burner</font>](/uploads/Images/GenerationOfEQR.png)
 
 <font size=3>
-The generation of equivalence ratio fluctuations arises from the oscillations in the flow rate of both fuel ($m_f$) and air ($m_a$). This relation can be derived by linearizing the definition of equivalence ratio:
+The generation of equivalence ratio fluctuations arises from the oscillations in the flow rate of both fuel ($m_f$) and air ($m_a$). This relation can be derived by linearizing the definition of equivalence ratio
 </font>
 $$
  \frac{{\phi}^\prime}{\bar{\phi}} \approx \frac{{m}}_f^\prime}{\overline{{m}}_f} - \frac{{{m}}_a^\prime}{\overline{{m}}_a} \approx \frac{{u}_f^\prime}{\bar{u}_f} - \frac{{u}_a^\prime}{\bar{u}_a}
