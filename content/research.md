@@ -25,7 +25,7 @@ Hydrogen, recognized as a promising alternative decarbonized fuel, has received 
 
 Linearization of the definition of EQR:
 $$
- \frac{\prime{\phi}}{\bar{\phi}} \approx \frac{\prime{\dot{m}}_f}{\overline{\dot{m}}_f} - \frac{\prime{\dot{m}}_a}{\overline{\dot{m}}_a} \approx \frac{\prime{u}_f}{\bar{u}_f} - \frac{\prime{u}_a}{\bar{u}_a}
+ \frac{{\phi}^\prime}{\bar{\phi}} \approx \frac{{\dot{m}}_f^\prime}{\overline{\dot{m}}_f} - \frac{{\dot{m}}_a^\prime}{\overline{\dot{m}}_a} \approx \frac{{u}_f^\prime}{\bar{u}_f} - \frac{{u}_a^\prime}{\bar{u}_a}
 $$
 
 ## <font size=5>Fundamental Research in Equivalence Ratio Fluctuations</font>
