@@ -56,7 +56,7 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: ture
   privacy_pack:
     enable: ture
   comment:
