@@ -39,8 +39,10 @@ A single-nozzle micromix burner subjected to acoustic excitation at 200 Hz:
 
 <p align="center">
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:2px;">
+  <figure style="margin:0;text-align:center;">
   {{< video src="Micromix_200Hz.mp4" controls="yes" >}}
   <figcaption style="margin-top:6px;color:#666;">(a) 基准工况</figcaption>
+  </figure>
   {{< video src="Micromix_200Hz_SI.mp4" controls="yes" >}}
 </div>
 </p>
