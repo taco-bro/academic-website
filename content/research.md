@@ -42,11 +42,8 @@ where $\phi$ is the equivalence ratio just downstream of the fuel injection poin
   <source src="/assets/video/ambient-piano.mp3">
 </audio> -->
 
-<audio width="320" height="240" controls="yes">
-  <source src="ambient-piano.mp3">
-</audio>
+{{< video src="MultiNozzle_1400Hz.mp4" controls="yes" >}}
 
-{{< audio src="ambient-piano.mp3" >}}
 
 ## <font size=5>Fundamental Research in Equivalence Ratio Fluctuations</font>
 ### <font size=3>Introduction</font>
