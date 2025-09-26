@@ -40,6 +40,16 @@ A multi-nozzle micromix burner subjected to acoustic excitation at 1.4 kHz:
 </p>
 
 ### <font size=3>Self-excited oscillations</font>
+<font size=3>
+Self-excited oscillation snapshot (OH* chemiluminescence) in a multi-nozzle micromix burner:
+</font>
+<p align="center">
+{{< video src="MultiNozzle_SelfExcited.mp4" controls="yes" >}}
+</p>
+<font size=3>
+Quasi-periodic oscillation:
+</font>
+![<font size=3>Quasi_Period_Oscillations</font>](/uploads/Images/Quasi_Period_Oscillations.png)
 
 ## <font size=5>Fundamental Research in Equivalence Ratio Fluctuations</font>
 ### <font size=3>Introduction</font>
