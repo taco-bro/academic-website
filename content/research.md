@@ -38,20 +38,9 @@ where $\phi$ is the equivalence ratio just downstream of the fuel injection poin
   您的浏览器不支持播放，<a href="/assets/video/MultiNozzle_1400Hz.mp4">点此下载</a>。
 </video> -->
 
-<!-- <video width="320" height="240" controls>
-  <source src="/assets/video/MultiNozzle_1400Hz.mp4" type="video/mp4">
-</video> -->
-
-<iframe 
-src="/assets/video/MultiNozzle_1400Hz.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+<video width="320" height="240" controls="yes">
+  <source src="/assets/video/ambient-piano.mp3">
+</video>
 
 ## <font size=5>Fundamental Research in Equivalence Ratio Fluctuations</font>
 ### <font size=3>Introduction</font>
