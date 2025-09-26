@@ -32,6 +32,12 @@ where $\phi$ is the equivalence ratio just downstream of the fuel injection poin
 </font>
 
 ### <font size=3>External forcing flame dynamics</font>
+
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:12px;">
+  {{< video src="Micromix_200Hz.mp4" controls="yes" >}}
+  {{< video src="Micromix_200Hz_SI.mp4" controls="yes" >}}
+</div>
+
 <font size=3>
 A multi-nozzle micromix burner subjected to acoustic excitation at 1.4 kHz:
 </font>
