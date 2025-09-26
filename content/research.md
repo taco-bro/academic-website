@@ -43,7 +43,7 @@ where $\phi$ is the equivalence ratio just downstream of the fuel injection poin
 </audio> -->
 
 <audio width="320" height="240" controls="yes">
-  <source src="/assets/video/ambient-piano.mp3">
+  <source src="ambient-piano.mp3">
 </audio>
 
 {{< audio src="/assets/video/ambient-piano.mp3" >}}
