@@ -211,4 +211,4 @@ Weiyuan is currently a master student in Mechanics at Southern University of Sci
 
 Weiyuan received his Bachelor’s degree from Huazhong University of Science and Technology (HUST), China, in 2022. He joined the current research group in September 2023, and began his research on flame transfer functions of pure hydrogen combustion. He has hands-on experience in optical diagnostics and flow velocimetry method. He has also conducted theoretical and numerical research on flame-front kinematics based on G-equation. He also interested in unsteady flow physics, especially the role of thermal-diffusive instabilities in shaping the thermoacoustic response and burning velocity of lean hydrogen flames. 
 
-Motto: Appreciate the beauty of fluid, acoustic and combustion !!!
+Appreciate the beauty of fluid, acoustic and combustion !!!
