@@ -31,7 +31,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=JhcUFRUUExUTZktHT0oIVVNVUkNFTghDQlMIRUg
+    url: ''
+    # http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=JhcUFRUUExUTZktHT0oIVVNVUkNFTghDQlMIRUg
     label: E-mail Me
   - icon: brands/weixin
     url: ''
