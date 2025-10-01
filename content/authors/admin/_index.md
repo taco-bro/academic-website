@@ -80,8 +80,8 @@ education:
       - Excellent Student Cadre (2025)
 
       Teaching Asistant included:
-      - MAE203 Theoretical Mechanics (undergraduate course, instructor: Kefu Huang), Fall 2023
-      - MAE209 Foundations of Engineering Mathematics (undergraduate course, instructor: Dong Yang), Fall 2024
+      - MAE203 Theoretical Mechanics (undergraduate course, instructor: Prof. Kefu Huang), Fall 2023
+      - MAE209 Foundations of Engineering Mathematics (undergraduate course, instructor: Prof. Dong Yang), Fall 2024
 
       Courses included:
       - Advanced Methods in Applied Mathematics
