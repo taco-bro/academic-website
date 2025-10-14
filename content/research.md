@@ -64,8 +64,22 @@ Quasi-periodic oscillation:
 
 ![<font size=3>Quasi_Period_Oscillations</font>](/uploads/Images/Quasi_Period_Oscillations.png)
 
-## <font size=5>Fundamental Research in Equivalence Ratio Fluctuations</font>
+### <font size=3>Flame front kinematic</font>
+<font size=3>
+Mie scattering (10kHz):
+</font>
+<p align="center">
+{{< video src="Mie_Scattering.mp4" controls="yes" >}}
+</p>
+<font size=3>
+Instantaneous flame front definition:
+</font>
+
+![<font size=3>Quasi_Period_Oscillations</font>](/uploads/Images/Mie_FlowChart.png)
+
+
+<!-- ## <font size=5>Fundamental Research in Equivalence Ratio Fluctuations</font>
 ### <font size=3>Introduction</font>
 <font size=3>
 Both velocity and equivalence ratio fluctuations play a critical role in unsteady heat release, which can trigger thermoacoustic instability. This form of instability arises from the two-way coupling between acoustic waves and unsteady heat release, leading to large-amplitude pressure oscillations and, in severe cases, catastrophic hardware failure. However, isolated influence between velocity and equivalence ratio fluctuations on flame dynamics is difficult to distinguish, as velocity and equivalence ratio fluctuation are inherently coupled. To address this challenge, it is essential to investigate flame behavior under well-controlled equivalence ratio perturbations. Such studies not only clarify how flames respond to these fluctuations but also provide valuable insights into the nonlinear dynamics governing combustion stability.
-</font>
+</font> -->
