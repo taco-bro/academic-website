@@ -69,8 +69,7 @@ Quasi-periodic oscillation:
 Mie scattering (10kHz):
 </font>
 <p align="center">
-<!-- {{< video src="Mie_Scattering.mp4" width="480" height="640" controls="yes" >}} -->
-<video src="Mie_Scattering.mp4" width="480" height="640" controls></video>
+{{< video src="Mie_Scattering.mp4" width="480" height="640" controls="yes" >}}
 </p>
 <font size=3>
 Instantaneous flame front definition:
