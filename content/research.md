@@ -31,7 +31,7 @@ $$
 where $\phi$ is the equivalence ratio just downstream of the fuel injection point, $u_f$ denotes the fuel injection velocity, and $u_a$ is the airflow velocity immediately upstream of the fuel injection. Acoustic oscillations generate velocity perturbations in the air stream, leading to corresponding variations in the air mass flow rate. If the fuel supply is not choked, pressure oscillations at the injection point can also modulate the fuel mass flow rate. These combined effects give rise to temporal fluctuations in the equivalence ratio, forming the basis of the mode conversion mechanism in partially premixed systems. 
 </font>
 
-### <font size=3>External forcing flame dynamics</font>
+<!-- ### <font size=3>External forcing flame dynamics</font>
 
 <font size=3>
 A single-nozzle micromix burner subjected to acoustic excitation at 200 Hz:
@@ -49,28 +49,28 @@ A multi-nozzle micromix burner subjected to acoustic excitation at 1.4 kHz:
 </font>
 <p align="center">
 {{< video src="MultiNozzle_1400Hz.mp4" controls="yes" >}}
-</p>
+</p> -->
 
 ### <font size=3>Self-excited oscillations</font>
 <font size=3>
 Self-excited oscillation snapshot (OH*) in a multi-nozzle micromix burner:
 </font>
 <p align="center">
-{{< video src="MultiNozzle_SelfExcited.mp4" controls="yes" >}}
+{{< video src="Oscillations.mp4" controls="yes" >}}
 </p>
-<font size=3>
+<!-- <font size=3>
 Quasi-periodic oscillation:
 </font>
 
-![<font size=3>Quasi_Period_Oscillations</font>](/uploads/Images/Quasi_Period_Oscillations.png)
+<!-- ![<font size=3>Quasi_Period_Oscillations</font>](/uploads/Images/Quasi_Period_Oscillations.png) --> -->
 
 ### <font size=3>Flame front kinematic</font>
 <font size=3>
 Mie scattering (10kHz):
 </font>
-<p align="center">
+<!-- <p align="center">
 {{< video src="Mie_Scattering.mp4" width="half" controls="yes" >}}
-</p>
+</p> -->
 <font size=3>
 Instantaneous flame front definition:
 </font>
