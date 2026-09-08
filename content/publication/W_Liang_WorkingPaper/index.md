@@ -11,10 +11,10 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2025-08-23T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.energy.2026.140827"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-08-23T00:00:00Z"
+publishDate: "2026-03-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,7 +22,7 @@ publishDate: "2025-08-23T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Energy* (Under review)"
+publication: "*Energy*, Volume 351, 15 May 2026, 140827"
 publication_short: ""
 
 abstract: In partially premixed configurations, both velocity and pressure fluctuations can induce temporal equivalence ratio fluctuations in the vicinity of the fuel injector. Once the pressure oscillation reaches a significant level, the assumption of stiff fuel injection will be compromised, resulting in a fluctuation in fuel mass flow. This study investigates the influence of non-stiff injection, where the fuel mass flow can be modulated by pressure fluctuations, on the dynamic response of a jet-stabilized, partially premixed hydrogen flame. A model incorporating the acoustic impedance of a circular aperture in the fuel line is developed and coupled with a mixing transfer function to predict the evolution of equivalence ratio fluctuations and validated using time-resolved ultraviolet absorption spectroscopy under acoustic forcing. Results show that the non-stiff model successfully captures the trend in the gain, whereas the stiff model does not. Flame transfer functions (FTF) based on OH* chemiluminescence intensity exhibit gain modulation patterns over frequency, arising from constructive and destructive interferences between velocity- and equivalence ratio-driven oscillations, with a Strouhal number scaling effectively collapsing the phase behavior and the positions of peaks and troughs in the FTF gain. However, variations in the FTF gain across different mean flow velocities suggest an additional contribution of pressure-induced equivalence ratio fluctuations. To identify this effect, an alternative FTF is introduced using the fuel injection velocity as the reference input. The resultant collapse of the FTF gains confirms the role of pressure-induced equivalence ratio fluctuations. Finally, a spatiotemporal analysis of OH* intensity reveals distinct dynamic responses at the bottom and top parts of the flame when subjected to modulations in velocity and equivalence ratio, highlighting a phase-dependent interference mechanism. These findings advance the understanding of partially premixed hydrogen flame dynamics under non-stiff injection conditions and offer valuable insights for the design of future hydrogen-fueled combustion systems.
@@ -38,10 +38,10 @@ tags:
 - Equivalence ratio fluctuation
 featured: true
 
-# links:
+links:
 # - name: ""
 #   url: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: uploads/1-s2.0-S0360544226009308-main.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
