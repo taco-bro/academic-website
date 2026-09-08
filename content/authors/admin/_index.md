@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Student
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Southern University of Science and Technology (SUSTech)
-    url: https://www.sustech.edu.cn/
+  - name: The Hong Kong Polytechnic University (PolyU)
+    url: https://https://www.polyu.edu.hk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -41,12 +41,12 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/taco-bro
+  # - icon: brands/github
+  #   url: https://github.com/taco-bro
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://https://scholar.google.com/citations?user=WCrgtjoAAAAJ&hl=en&oi=sra/
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Weiyuan-Liang/
   - icon: academicons/orcid
@@ -67,10 +67,31 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
+  # - area: M.Eng Mechanics
+  #   institution: Southern University of Science and Technology
+  #   date_start: 2023-09-01
+  #   date_end: 2026-09-01
+    # summary: |
+    #   GPA: 3.52/4.0
+
+    #   Awards included:
+    #   - Outstanding PostGraduate Student (2023 - 2024)
+    #   - Outstanding Teaching Assistant (2025) 
+    #   - Excellent Student Cadre (2025)
+
+    #   Teaching Asistant included:
+    #   - MAE203 Theoretical Mechanics (undergraduate course, instructor: Prof. Kefu Huang), Fall 2023
+    #   - MAE209 Foundations of Engineering Mathematics (undergraduate course, instructor: Prof. Dong Yang), Fall 2024
+
+    #   Courses included:
+    #   - Advanced Methods in Applied Mathematics
+    #   - Advanced Computational Fluid Mechanics
+    #   - Aeroacoustics
+    #   - Continuum Mechanics
   - area: M.Eng Mechanics
     institution: Southern University of Science and Technology
     date_start: 2023-09-01
-    date_end: 2026-09-01
+    date_end: 2026-07-01
     summary: |
       GPA: 3.52/4.0
 
@@ -208,8 +229,8 @@ skills:
 
 ## About Me
 
-Weiyuan is currently a master student in Mechanics at Southern University of Science and Technology (SUSTech). He works with Dong Yang in SUSTech. His research interests include combustion instability (thermoacoustic instability), fluid mechanics and acoustic (e.g. generation and propagation of acoustic in internal flow). The current research activities are focused on thermoacoustic instabilities, particularly on fundamental problems that arise out of the development of clean combustion systems or utilization of alternative fuels (e.g. hydrogen). 
+Weiyuan is currently a PhD student at PolyU. His research interests include combustion instability (thermoacoustic instability), fluid mechanics and acoustic (e.g. generation and propagation of acoustic in internal flow). The current research activities are focused on thermoacoustic instabilities, particularly on fundamental problems that arise out of the development of clean combustion systems or utilization of alternative fuels (e.g. hydrogen). 
 
-Weiyuan received his Bachelor’s degree from Huazhong University of Science and Technology (HUST), China, in 2022. He joined the current research group in September 2023, and began his research on flame transfer functions of pure hydrogen combustion. He has hands-on experience in optical diagnostics and flow velocimetry method. He has also conducted theoretical and numerical research on flame-front kinematics based on G-equation. He also interested in unsteady flow physics, especially the role of thermal-diffusive instabilities in shaping the thermoacoustic response and burning velocity of lean hydrogen flames. 
+Weiyuan received his Bachelor’s degree from Huazhong University of Science and Technology (HUST), China, in 2022. In September 2023, he joined the research group of Prof. Dong Yang at Southern University of Science and Technology (SUSTech), where he began his research on flame transfer functions in pure hydrogen combustion. After completing his Master's degree at SUSTech, he joined the Prof. Yu Guan's group at The Hong Kong Polytechnic University (PolyU). He has hands-on experience in optical diagnostics and flow velocimetry method. He has also conducted theoretical and numerical research on flame-front kinematics based on G-equation. He also interested in unsteady flow physics, especially the role of thermal-diffusive instabilities in shaping the thermoacoustic response and burning velocity of lean hydrogen flames. 
 
 Appreciate the beauty of fluid, acoustic and combustion !!!
