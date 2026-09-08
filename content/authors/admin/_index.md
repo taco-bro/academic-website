@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Candidate
+role: Master Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,18 +31,23 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 12332535@mail.sustech.edu.cn
+    url: ''
     label: E-mail Me
+  - icon: brands/weixin
+    url: ''
+    label: V Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
+  - icon: brands/github
+    url: https://github.com/taco-bro
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Weiyuan-Liang/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-6232-9765
 
@@ -69,9 +74,13 @@ education:
       GPA: 3.52/4.0
 
       Awards included:
-      - Outstanding Graduate Student (2023 - 2024)
-      - Outstanding Teaching Asistant (2025) 
+      - Outstanding PostGraduate Student (2023 - 2024)
+      - Outstanding Teaching Assistant (2025) 
       - Excellent Student Cadre (2025)
+
+      Teaching Asistant included:
+      - MAE203 Theoretical Mechanics (undergraduate course, instructor: Kefu Huang), Fall 2023
+      - MAE209 Foundations of Engineering Mathematics (undergraduate course, instructor: Dong Yang), Fall 2024
 
       Courses included:
       - Advanced Methods in Applied Mathematics
@@ -90,10 +99,11 @@ education:
       - Outstanding Graduate (2022) 
       
       Courses included:
-      - Statics
       - Aerodynamics
-      - Dynamics and Bifurcations
+      - Thermo Fluid Fundamentals
       - Aerospace Vehicle Performance
+      - Aviation Gas Turbine
+      - Aerospace Structural Analysis
       - Computational Fluid Dynamics
       - Combustion Theory and Application
       - Jet/Rocket Engine 
@@ -137,7 +147,7 @@ skills:
       - name: Optical Diagnostics
         description: ''
         percent: 60
-        icon: circle-stack
+        icon: hero/star
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -197,4 +207,8 @@ skills:
 
 ## About Me
 
-W. Liang is a master candidate of mechanics. His research interests include combustion instability, fluid mechanics and acoustic. The current research activities are focused on thermoacoustic combustion instabilities, particularly on fundamental problems that arise out of the development of clean combustion systems or utilization of alternative fuels (e.g. hydrogen). 
+Weiyuan is currently a master student in Mechanics at Southern University of Science and Technology (SUSTech). He works with Dong Yang in SUSTech. His research interests include combustion instability (thermoacoustic instability), fluid mechanics and acoustic (e.g. generation and propagation of acoustic in internal flow). The current research activities are focused on thermoacoustic instabilities, particularly on fundamental problems that arise out of the development of clean combustion systems or utilization of alternative fuels (e.g. hydrogen). 
+
+Weiyuan received his Bachelor’s degree from Huazhong University of Science and Technology (HUST), China, in 2022. He joined the current research group in September 2023, and began his research on flame transfer functions of pure hydrogen combustion. He has hands-on experience in optical diagnostics and flow velocimetry method. He has also conducted theoretical and numerical research on flame-front kinematics based on G-equation.
+
+Appreciate the beauty of fluid, acoustic and combustion !!!
