@@ -36,11 +36,11 @@ abstract: Thermoacoustic instabilities arise when fluctuations in heat release c
 
 # summary: Oral presentation in 15th Asia-Pacific Conference on Combustion, May 2025, Singapore
 
-tags: 
-  - Flame Transfer function
-  - Hydrogen
-  - Thermoacoustic
-  - Micro-mix
+# tags: 
+#   - Flame Transfer function
+#   - Hydrogen
+#   - Thermoacoustic
+#   - Micro-mix
 
 featured: false
 
@@ -54,10 +54,10 @@ image:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: uploads/WIPP2026_Weiyuan_Liang.pdf
+url_pdf: uploads/WiPP2026_PDF_Weiyuan.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_poster: ''
+url_poster: 'uploads/WIPP2026_Weiyuan_Liang.pdf'
 # url_project: ''
 # url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
