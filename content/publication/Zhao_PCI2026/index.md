@@ -9,7 +9,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2026-09-030T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.proci.2026.106611"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-09-22T00:00:00Z"
@@ -20,7 +20,7 @@ publishDate: "2026-09-22T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceeding of Combustion Institute*"
+publication: "*Proceeding of Combustion Institute*, Volume 42, 106611"
 publication_short: ""
 
 abstract: Thermoacoustic instability is a critical issue in gas-turbine and aero-engine systems, typically involving coupled velocity and equivalence ratio (ϕ) oscillations. Under the assumption that velocity and ϕ oscillations do not interact, a multi-input single-output (MISO) model in which the flame transfer function is replaced by the flame describing function can be applied to such complex systems in the nonlinear regimes, but sufficient experimental validation is lacking. This study systematically examines the response of a premixed CH4/air swirl-stabilized turbulent flame to ϕ oscillations of various amplitudes at a fixed modulation frequency of 10 Hz using a dual-valve modulation system. And then, appropriate operating cases were chosen to validate the MISO model. As mean equivalence ratios (ϕ₀) equal to 0.65 or 0.9, the flame enters a pronounced nonlinear regime when amplitude exceeds 0.02, necessitating a third-order Taylor expansion within the quasi-steady state assumption (QSSA) framework for precise modeling. As ϕ₀ = 1.1, the gain of flame describing function is largely independent of the amplitude and can be accurately predicted by the QSSA framework at low amplitudes. However, when ϕ oscillations encompass the steady-state curve’s inflection point and even enter the regime of abrupt flame morphological changes, the QSSA predictions show significantly larger deviations. After confirming that velocity and ϕ oscillations are decoupled, the cases with ϕ₀ = 0.9 were used to validate the MISO model combing with a single-valve modulation system. And the results show that the MISO model accurately captures the amplitude dependence of the flame describing function even in the nonlinear regimes. The study further indicates that the relative deviations introduced by the application of the MISO model arise from variations in the instantaneous velocity. While the instantaneous velocity alters the overall flame morphology and consequently affects the spatial distribution of CH* chemiluminescence.
@@ -37,8 +37,8 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://doi.org/10.1016/j.proci.2026.106611"
-url_pdf: uploads/1-s2.0-S1540748926006073-main
+# url: "https://doi.org/10.1016/j.proci.2026.106611"
+url_pdf: uploads/1-s2.0-S1540748926006073-main.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
