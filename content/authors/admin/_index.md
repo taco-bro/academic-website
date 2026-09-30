@@ -46,7 +46,7 @@ profiles:
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: ://scholar.google.com/citations?user=WCrgtjoAAAAJ&hl=en
+    url: 'https://scholar.google.com/citations?user=WCrgtjoAAAAJ&hl=en'
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Weiyuan-Liang/
   - icon: academicons/orcid
