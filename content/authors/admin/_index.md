@@ -118,7 +118,7 @@ education:
 
       Awards included:
       - Scholarship for Academic Progress (2019 - 2020)
-      - Outstanding Graduate (2022) 
+      - Outstanding Graduate (2022)  
       
       Courses included:
       - Aerodynamics
