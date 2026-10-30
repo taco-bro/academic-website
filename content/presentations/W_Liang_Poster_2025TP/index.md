@@ -21,7 +21,7 @@ event: Tsinghua-Princeton-Combustion 2025 Summer School on Combustion
 
 publishDate: '2025-07-06T00:00:00Z'
 
-# publication_types: ['paper-conference']
+# publication_types: ['paper-conference ']
 
 # publication: In *15th Asia-Pacific Conference on Combustion*
 # publication_short: In *ASPACC*
