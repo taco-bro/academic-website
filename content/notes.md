@@ -55,5 +55,5 @@ commentable: true
 - <font size=3>Flame-front kinematics of a V-flame under the modulation of both velocity and equivalence ratio [<font color=blue>(Analytical solution in small perturbations)</font>](/uploads/GEq_Analytical_Solution.pdf)</font>
 - <font size=3>Lecture notes for the Acoustics course [<font color=blue>(NOTE)</font>](/uploads/Acoustic_Course_SUSTech.pdf)[<font color=blue>(CP)</font>](/uploads/Acoustic_Course_CP_SUSTech.pdf)</font>
 - <font size=3>Lecture notes for the Advanced Engineering Mathematics course [<font color=blue>(CP)</font>](/uploads/AdvancedEngineeringMath_Course_CP_SUSTech.pdf)</font>
-- <font size=3>Notes for acoustic impedance of Helmholtz resonator[<font color=blue>(NOTE)</font>](/uploads/Note_ Rayleigh_Conductivity.pdf)</font>
-- <font size=3>Notes for flame propagation[<font color=blue>(NOTE)</font>](/uploads/Note_ Flame_propagation.pdf)</font>
+- <font size=3>Notes for acoustic impedance of Helmholtz resonator [<font color=blue>(NOTE)</font>](/uploads/Note_Rayleigh_Conductivity.pdf)</font>
+- <font size=3>Notes for flame propagation[<font color=blue>(NOTE)</font>](/uploads/Note_Flame_propagation.pdf)</font>
